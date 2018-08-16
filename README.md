@@ -8,4 +8,4 @@ Ferramentas e linguagens:
   * Javascript
   * Visual Studio Code
 
-## [Testar](https://tiozimd4manha.github.io/pjtCalculadora/calculadora.html)
+# [Divirta-se! ^^](https://tiozimd4manha.github.io/pjtCalculadora/calculadora.html)
