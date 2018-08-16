@@ -1,6 +1,6 @@
 # pjtCalculadora
 **Projeto:** Calculadora
-> Calculadora de quatro operações básicas produzida em Javascript
+> Calculadora com quatro operações básicas produzida em Javascript
 
 Ferramentas e linguagens:
   * HTML
