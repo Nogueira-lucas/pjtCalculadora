@@ -8,4 +8,4 @@ Ferramentas e linguagens:
   * Javascript
   * Visual Studio Code
 
-# [Clique aqui e teste já!](https://nogueira-lucas.github.io/pjtCalculadora/calculadora.html)
+
