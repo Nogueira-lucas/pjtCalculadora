@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CALCULADORA - javascript</title>
+    <link rel="stylesheet" href="estilo.css">
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+    <!--PAINEL DA CALCULADORA-->
+    <section class="painel">
+        <div class="monitor">
+            <form name="formulario">
+                <input type="text" id="console" disabled>
+            </form>
+        </div>
+        <div class="botoes">
+            <button onclick="add_numeros('1');">1</button>
+            <button onclick="add_numeros('2');">2</button>
+            <button onclick="add_numeros('3');">3</button>
+            <button id="soma" onclick="Soma();">+</button>
+            <br>
+            <button onclick="add_numeros('4');">4</button>
+            <button onclick="add_numeros('5');">5</button>
+            <button onclick="add_numeros('6');">6</button>
+            <button id="sub" onclick="Sub();">-</button>
+            <br>
+            <button onclick="add_numeros('7');">7</button>
+            <button onclick="add_numeros('8');">8</button>
+            <button onclick="add_numeros('9');">9</button>
+            <button id="div" onclick="Div();">/</button>
+            <br>
+            <button onclick="add_numeros('0');">0</button>
+            <button id="igual" onclick="Igual();">=</button>
+            <button onclick="limpar();">Limpar</button>
+            <button id="mult" onclick="Multi();">*</button>
+        </div>
+    </section>
+    <footer class="rodape">
+        Lucas Nogueira - &copy;TiozimDaManhã, 2018.
+    </footer>
+</body>
+</html>
